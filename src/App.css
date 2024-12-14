@@ -1,0 +1,63 @@
+
+*{ 
+  margin: 10px; 
+  padding: 5px; 
+  box-sizing: border-box; 
+ 
+} 
+.main{ 
+  height: auto; 
+  width: 24vw; 
+  margin: auto; 
+  align-items: center; 
+  border: 2px solid black; 
+  text-align: center; 
+  color: white; 
+  background-color: darkblue; 
+  background-image: url("https://static.vecteezy.com/system/resources/previews/010/576/956/original/abstract-background-vivid-liquify-texture-colourful-wallpaper-premium-free-photo.jpg"); 
+  height: 70vh; 
+  background-size: 100% 100%; 
+  background-repeat: no-repeat;  
+ 
+} 
+ 
+/* .secondcheck { 
+  width: 30%; 
+  padding: 10px; 
+  background-color: blueviolet; 
+  color: white; 
+  border: none; 
+  border-radius: 6px; 
+  cursor: pointer; 
+  font-size: 16px;  */
+
+firstcheck{ 
+font-size: large; 
+display: flex; 
+float: left; 
+} 
+secondcheck{ 
+  font-size: large; 
+  display: flex; 
+  } 
+thirdcheck{ 
+    font-size: large; 
+    display: flex; 
+    } 
+    h1{ 
+      font-size: large; 
+    } 
+#input1{ 
+ 
+  width: 400 px; 
+} 
+h1{
+  height: 50px;
+}
+ 
+  .btn{ 
+    width: 80px; 
+    margin: auto; 
+    display: block; 
+    float: right; 
+     }
